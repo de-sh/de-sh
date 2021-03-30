@@ -4,7 +4,7 @@
 
 I have been a GitHub member for: [![Years Badge](https://badges.pufler.dev/years/de-sh)](#)
 
-- 🔭 I’m currently working on [raex](https://github.com/vyuham/raex) at night and the weekends
+- 🔭 I’m currently working on [Project Vyuham](https://github.com/vyuham) at night and the weekends
 - 👨‍💻 Previously worked on [TiKV](https://github.com/tikv/tikv) for GSoC'20 with [CNCF](https://github.com/cncf)
 - 🌱 I’m currently learning [rust-lang](https://www.rust-lang.org) and reading up on distributed computing research for academic purposes
 - 📫 How to reach me: [twitter](https://twitter.com/devShenoi)
