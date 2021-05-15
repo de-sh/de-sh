@@ -13,4 +13,11 @@ I have been a GitHub member for: [![Years Badge](https://badges.pufler.dev/years
 // - 🤔 I’m looking for help with ...
 // - 💬 Ask me about ... -->
 
-![Devdutt's github stats](https://github-readme-stats.vercel.app/api?username=de-sh&show_icons=true&theme=dark&count_private=true)
+### from the log...
+| # | Title 									                                                          | Date  			      |
+| - |:---------------------------------------------------------------------------------:| -----------------:|
+| 5 | [A Summer of Code with TiKV](https://github.com/de-sh/blog/blob/main/posts/gsoc-2020.md)| August 25, 2020   |
+| 4 | [Building a Universal Parser, Improving Hydrus and Demo](https://github.com/de-sh/blog/blob/main/posts/pip-linux.md)| April 5, 2019		  |
+| 3 | [Awesome new Python learnings](https://github.com/de-sh/blog/blob/main/posts/opensalve-pipenv.md)| March 8, 2019		  |
+| 2 | [How I moved OpenSalve from using Virtualenv to Pipenv](https://github.com/de-sh/blog/blob/main/posts/python-learnings.md)| January 3, 2019 	|
+| 1 | [Installing pip on Linux](https://github.com/de-sh/blog/blob/main/posts/gsoc-proposal.md)| December 14, 2018	|
