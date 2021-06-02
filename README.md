@@ -10,10 +10,10 @@
 // - 💬 Ask me about ... -->
 
 ### from the log...
-| # | Title 									                                                          | Date  			      |
+| # | Title 									                                        | Date  			|
 | - |:---------------------------------------------------------------------------------:| -----------------:|
-| 5 | [A Summer of Code with TiKV](https://github.com/de-sh/blog/blob/main/posts/gsoc-2020.md)| August 25, 2020   |
-| 4 | [Building a Universal Parser, Improving Hydrus and Demo](https://github.com/de-sh/blog/blob/main/posts/pip-linux.md)| April 5, 2019		  |
-| 3 | [Awesome new Python learnings](https://github.com/de-sh/blog/blob/main/posts/opensalve-pipenv.md)| March 8, 2019		  |
-| 2 | [How I moved OpenSalve from using Virtualenv to Pipenv](https://github.com/de-sh/blog/blob/main/posts/python-learnings.md)| January 3, 2019 	|
-| 1 | [Installing pip on Linux](https://github.com/de-sh/blog/blob/main/posts/gsoc-proposal.md)| December 14, 2018	|
+| 5 | [A Summer of Code with TiKV](posts/gsoc-2020.md)                                  | August 25, 2020   |
+| 4 | [Building a Universal Parser, Improving Hydrus and Demo](posts/gsoc-proposal.md)	    | April 5, 2019		| 
+| 3 | [Awesome new Python learnings](posts/python-learnings.md)				            | March 8, 2019		|
+| 2 | [How I moved OpenSalve from using Virtualenv to Pipenv](posts/opensalve-pipenv.md)| January 3, 2019 	|
+| 1 | [Installing pip on Linux](posts/pip-linux.md)					                | December 14, 2018	|
